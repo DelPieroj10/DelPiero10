@@ -15,20 +15,19 @@ Hi Dudes, I'm Jean Piero Parra!
 
 <hr>
 
-I am a professional with a Higher Technician in Finance and Accounting. I have been studying Psychology and Marketing and publicity since 2017, Graphic Design since 2020, and web development and English since February 2022 (which I have been improving constantly). I am expanding my knowledge in front-end development (especially REACT.JS). I love to learn and build something where I can utilize my productivity, creativity, and expertise in the customer service field.
+I am a professional with a Higher Technician in Finance and Accounting. I have been studying Psychology and Marketing and publicity since 2017, Graphic Design since 2020, and web development and English since February 2022 (which I have been improving constantly). 
+<br>
+<div display="flex" text-aling="center" padding-left="40px" >
+<img align="center" height="450rem"  alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlrYXB4ZnZtZDNtdmJqbDRpcWJremFzNHRiYWp2OHl2aWc2eXFsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" />
+</div>
+<br>
+
+I am expanding my knowledge in front-end development (especially REACT.JS). I love to learn and build something where I can utilize my productivity, creativity, and expertise in the customer service field.
 - 📚 I’m currently learning ...
   - React.js
   - Node.js
 🚩 Interested in Web development
 - 🧐 I’m currently open for: An Intern or a new job opportunity
-<br>
-<br>
-
-<div display="flex" text-aling="center" padding-left="40px" >
-<img align="center" height="450rem"  alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlrYXB4ZnZtZDNtdmJqbDRpcWJremFzNHRiYWp2OHl2aWc2eXFsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" />
-</div>
-
-<br>
 <br>
 
 
