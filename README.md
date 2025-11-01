@@ -53,7 +53,7 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelPiero10&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that; it's a GitHub metric of which languages I have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: 'Most Used Languages' does not indicate my skill level or something like that; it's a GitHub metric of which languages I have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/DelPiero10/github-readme-stats)*
 
 <br>
 
