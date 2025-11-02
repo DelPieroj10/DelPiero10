@@ -1,4 +1,4 @@
-# DelPiero10
+# DelPieroj10
 <h1 align="center">
 Hi Dudes, I'm Jean Piero Parra!
 	<a href="https://github.com/DelPiero10" target="_self">
