@@ -27,7 +27,7 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
   - Node.js
     
 🚩 Interested in Web development
-- 🧐 I’m currently open for: An Intern or a new job opportunity
+- 🧐 Currently, I am open to a new job as a junior/trainee
 <br>
 
 
